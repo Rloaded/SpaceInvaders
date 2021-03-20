@@ -11,6 +11,8 @@ screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 
 clock = pygame.time.Clock()
 
+
+
 pygame.display.set_caption('space invaders')
 
 background = pygame.image.load('background.png')
